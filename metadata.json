@@ -1,0 +1,8 @@
+{
+  "name": "Aspalta Academy",
+  "description": "منصة تعليمية مستوحاة من تراث الملك أسبالتا، حيث نرتقي بسلالم المعرفة في معبد آمون.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
